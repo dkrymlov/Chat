@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "activityindicator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dkrymlov/ActivityIndicator",
+      "state" : {
+        "revision" : "19294cceada007f8f60953931efb1ff1ac1b25e3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "floatingbutton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dkrymlov/FloatingButton",
+      "state" : {
+        "revision" : "3f75e95facac905c4cad43ab6861aadf43d6d652",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "mediapicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dkrymlov/MediaPicker.git",
+      "state" : {
+        "revision" : "dcacd9b925c0934c8814a07c941b25d98b47a352",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/swiftui-introspect",
+      "state" : {
+        "revision" : "18e965f867e37a558ad13c12d330dbe047099180",
+        "version" : "1.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
